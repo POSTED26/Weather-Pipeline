@@ -144,6 +144,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Airflow configuration
+config/
+logs/
+
+
+
 # Spyder project settings
 .spyderproject
 .spyproject
